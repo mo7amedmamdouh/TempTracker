@@ -1,8 +1,9 @@
 # TempTracker Task
 
-## Run composer install to install phpunit test Lib
 
 Cd inside Task Folder 
+
+Run `composer install` to install phpunit test Lib
 
 Run Tests Using ` ./vendor/bin/phpunit tests`
 
